@@ -1,11 +1,11 @@
 {
-  "posts": [
-    {
+  "lista": [
+   {
       "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+      "tarea": "Terminar ToDo List"
+   },
+   {
+      "id": 2,
+      "tarea": "Lavar el auto"
+   }
+]
