@@ -1,11 +1,14 @@
 {
   "lista": [
-   {
-      "id": 1,
-      "tarea": "Terminar ToDo List"
-   },
-   {
-      "id": 2,
-      "tarea": "Lavar el auto"
-   }
+    {
+        "id": 1,
+        "tarea": "Terminar ToDo List",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "tarea": "Lavar el auto",
+        "completed": false
+    }
 ]
+}
